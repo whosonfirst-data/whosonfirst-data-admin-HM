@@ -1,0 +1,359 @@
+{
+  "id": 85681231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.052954,
+    "geom:area_square_m":393245688.974641,
+    "geom:bbox":"73.2360132168,-53.1925595028,73.8121850917,-52.9616024714",
+    "geom:latitude":-53.088817,
+    "geom:longitude":73.50521,
+    "gn:id":"",
+    "iso:country":"HM",
+    "lbl:latitude":-53.103463,
+    "lbl:longitude":73.50521,
+    "mps:latitude":-53.103463,
+    "mps:longitude":73.50521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:afr_x_preferred":[
+        "Heard- en McDonaldeilande"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0647\u064a\u0631\u062f \u0648\u062c\u0632\u0631 \u0645\u0627\u0643\u062f\u0648\u0646\u0627\u0644\u062f"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0425\u0435\u0440\u0434 \u0456 \u0410\u0441\u0442\u0440\u0430\u0432\u044b \u041c\u0430\u043a-\u0414\u043e\u043d\u0430\u043b\u0434"
+    ],
+    "name:bel_x_variant":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0413\u044d\u0440\u0434 \u0456 \u0430\u0441\u0442\u0440\u0430\u0432\u044b \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u0434"
+    ],
+    "name:bos_x_preferred":[
+        "Ostrvo Heard i arhipelag McDonald"
+    ],
+    "name:bre_x_preferred":[
+        "Enez Heard hag Inizi McDonald"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u044a\u0440\u0434 \u0438 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "Illes Heard i McDonald"
+    ],
+    "name:ces_x_preferred":[
+        "Heard\u016fv ostrov a McDonaldovy ostrovy"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0648\u0631\u06af\u06d5\u06cc \u06be\u06ce\u0631\u062f \u0648 \u062f\u0648\u0648\u0631\u06af\u06d5\u06a9\u0627\u0646\u06cc \u0645\u06d5\u06a9 \u062f\u06c6\u0646\u0627\u06b5\u062f"
+    ],
+    "name:cym_x_preferred":[
+        "Ynysoedd Heard a McDonald"
+    ],
+    "name:cze_x_preferred":[
+        "Heard\u016fv Ostrov a Mcdonaldovy Ostrovy"
+    ],
+    "name:dan_x_preferred":[
+        "Heard Island og Mcdonald Islands"
+    ],
+    "name:dan_x_variant":[
+        "Heard- og McDonald\u00f8erne"
+    ],
+    "name:deu_x_preferred":[
+        "Heard und McDonaldinseln"
+    ],
+    "name:deu_x_variant":[
+        "Heard Und Mcdonaldinseln"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03b9 \u03a7\u03b5\u03c1\u03bd\u03c4 \u03ba\u03b1\u03b9 \u039c\u03b1\u03ba\u03bd\u03c4\u03cc\u03bd\u03b1\u03bb\u03bd\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Heard Island and McDonald Islands"
+    ],
+    "name:eng_x_unknown":[
+        "HM"
+    ],
+    "name:epo_x_preferred":[
+        "Insulo Herdo kaj insuloj Makdonaldaj"
+    ],
+    "name:eus_x_preferred":[
+        "Heard eta McDonald uharteak"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Heard ja McDonaldinsaaret"
+    ],
+    "name:fin_x_variant":[
+        "Heard ja McDonaldsaaret"
+    ],
+    "name:fra_x_preferred":[
+        "\u00celes Heard-et-MacDonald"
+    ],
+    "name:fra_x_variant":[
+        "Iles Heard et McDonald",
+        "\u00cele Heard et \u00eeles McDonald",
+        "\u00cele Heard Et \u00celes Mcdonald"
+    ],
+    "name:fry_x_preferred":[
+        "Heard en de McDonaldeilannen"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Heard e Illas McDonald"
+    ],
+    "name:glv_x_preferred":[
+        "Ellan Heard as Ellanyn McDonald"
+    ],
+    "name:hbs_x_preferred":[
+        "Otok Heard i oto\u010dje McDonald"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d0\u05d9 \u05d4\u05e8\u05d3 \u05d5\u05d0\u05d9\u05d9 \u05de\u05e7\u05d3\u05d5\u05e0\u05dc\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0930\u094d\u0921 \u0926\u094d\u0935\u0940\u092a \u0914\u0930 \u092e\u0948\u0915\u0921\u094b\u0928\u093e\u0932\u094d\u0921 \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:hrv_x_preferred":[
+        "Otok Heard i oto\u010dje McDonald"
+    ],
+    "name:hun_x_preferred":[
+        "Heard-Sziget \u00c9s Mcdonald-Szigetek",
+        "Heard-sziget \u00e9s McDonald-szigetek"
+    ],
+    "name:hun_x_variant":[
+        "Heard Sziget \u00e9s McDonald-szigetek"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Heard dan Kepulauan McDonald"
+    ],
+    "name:isl_x_preferred":[
+        "Heard og McDonaldseyjar"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Heard E Mcdonald",
+        "Isole Heard e McDonald"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30c9\u5cf6\u30fb\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6",
+        "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d4\u10e0\u10d3\u10d8 \u10d3\u10d0 \u10db\u10d0\u10d9\u10d3\u10dd\u10dc\u10d0\u10da\u10d3\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0435\u0440\u0434 \u0430\u0440\u0430\u043b\u044b \u0436\u04d9\u043d\u0435 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434 \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kin_x_preferred":[
+        "Icyirwa Hadi n\u2019Ibirwa MakeDonalidi"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4"
+    ],
+    "name:kor_x_variant":[
+        "\ud5c8\ub4dc \uc564 \ub9e5\ub3c4\ub0a0\ub4dc \uad70\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "H\u0113rda Sala un Makdonalda Salas"
+    ],
+    "name:lit_x_preferred":[
+        "Herdas ir Makdonaldas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d47\u0d21\u0d4d \u0d10\u0d32\u0d28\u0d4d\u0d31\u0d4d \u0d06\u0d7b\u0d21\u0d4d \u0d2e\u0d15\u0d4d\u0d21\u0d4a\u0d23\u0d3e\u0d7e\u0d21\u0d4d \u0d10\u0d32\u0d28\u0d4d\u0d31\u0d4d\u0d38\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u0930\u094d\u0921 \u0926\u094d\u0935\u0940\u092a \u0935 \u092e\u0945\u0915\u0921\u0949\u0928\u0932\u094d\u0921 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:mon_x_preferred":[
+        "\u0425\u044d\u0440\u0434 \u0410\u0440\u0430\u043b \u0431\u0430 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u0434 \u0410\u0440\u043b\u0443\u0443\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Pulau Heard dan Kepulauan McDonald"
+    ],
+    "name:nld_x_preferred":[
+        "Heard en McDonaldeilanden"
+    ],
+    "name:nld_x_variant":[
+        "Heard- en McDonaldeilanden",
+        "Heardeiland en Mcdonaldeilanden"
+    ],
+    "name:nno_x_preferred":[
+        "Heard- og McDonald\u00f8yane"
+    ],
+    "name:nor_x_colloquial":[
+        "Heard Oya og Macdonald Oya"
+    ],
+    "name:nor_x_preferred":[
+        "Heard- Og Mcdonald\u00f8yene",
+        "Heard- og McDonald\u00f8yene"
+    ],
+    "name:nor_x_variant":[
+        "Heard \u00d8ya og Macdonald \u00d8ya"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a39\u0a30\u0a21 \u0a1f\u0a3e\u0a2a\u0a42 \u0a05\u0a24\u0a47 \u0a2e\u0a48\u0a15\u0a21\u0a3e\u0a28\u0a32\u0a21 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspy Heard I Mcdonalda",
+        "Wyspy Heard i McDonalda"
+    ],
+    "name:pol_x_variant":[
+        "Wyspy Heard i McDonald"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Heard E Ilhas Mcdonald",
+        "Ilha Heard e Ilhas McDonald"
+    ],
+    "name:por_x_variant":[
+        "Ilhas Heard e McDonald"
+    ],
+    "name:ron_x_preferred":[
+        "Insula Heard \u0219i Insulele McDonald"
+    ],
+    "name:rum_x_preferred":[
+        "Insula Heard \u015ei Insulele Mcdonald"
+    ],
+    "name:rum_x_variant":[
+        "Insulele Heard \u0219i Mc Donald"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432 \u0425\u0435\u0440\u0434 \u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434"
+    ],
+    "name:sco_x_preferred":[
+        "Heard Island an McDonald Islands"
+    ],
+    "name:slk_x_preferred":[
+        "Heardov ostrov"
+    ],
+    "name:slv_x_preferred":[
+        "Otok Heard in oto\u010dje McDonald"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Heard Y Mcdonald",
+        "Islas Heard y McDonald"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0432\u0430 \u0425\u0435\u0440\u0434 \u0438 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u0434"
+    ],
+    "name:swe_x_colloquial":[
+        "Heard- och McDonaldsoarna"
+    ],
+    "name:swe_x_preferred":[
+        "Heard- och McDonalds\u00f6arna",
+        "Heard- och McDonald\u00f6arna"
+    ],
+    "name:swe_x_variant":[
+        "Heard\u00f6n och McDonald\u00f6arna"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b8f\u0bb0\u0bcd\u0b9f\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1\u0bae\u0bcd \u0bae\u0b95\u0bcd\u0b9f\u0bca\u0ba9\u0bbe\u0bb2\u0bcd\u0b9f\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u04ba\u04e9\u0440\u0434 \u0443\u0442\u0440\u0430\u0432\u044b \u04bb\u04d9\u043c \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434 \u0443\u0442\u0440\u0430\u0443\u043b\u0430\u0440\u044b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e40\u0e2e\u0e34\u0e23\u0e4c\u0e14\u0e41\u0e25\u0e30\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e41\u0e21\u0e01\u0e14\u0e2d\u0e19\u0e31\u0e25\u0e14\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Heard Adas\u0131 ve McDonald Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u0456\u0432 \u0425\u0435\u0440\u0434 \u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Heard v\u00e0 qu\u1ea7n \u0111\u1ea3o McDonald"
+    ],
+    "name:war_x_preferred":[
+        "Puro han Heard ngan Kapuropod-an McDonald"
+    ],
+    "name:wol_x_preferred":[
+        "Heard Island and McDonald Islands"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d6b\u5fb7\u5cf6\u642d\u4ed4\u9ea5\u514b\u5510\u7d0d\u7fa4\u5cf6"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10f0\u10d4\u10e0\u10d3\u10d8\u10e8 \u10d9\u10dd\u10d9\u10d8 \u10d3\u10dd \u10db\u10d0\u10d9\u10d3\u10dd\u10dc\u10d0\u10da\u10d3\u10d8\u10e8 \u10d9\u10dd\u10d9\u10d4\u10e4\u10d8"
+    ],
+    "name:yor_x_preferred":[
+        "Er\u00e9k\u00f9\u1e63\u00f9 Heard \u00e0ti \u00c0w\u1ecdn Er\u00e9k\u00f9\u1e63\u00f9 McDonald"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u5fb7\u5cf6\u548c\u9ea5\u514b\u5510\u7d0d\u7fa4\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u8d6b\u5fb7\u5c9b\u548c\u9ea5\u514b\u5510\u7d0d\u7fa4\u5c9b"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u514b\u5cf6\u540c\u9ea5\u7576\u5974\u7fa4\u5cf6"
+    ],
+    "qs:a0":"Heard Island and McDonald Islands",
+    "qs:a0_lc":"HM",
+    "qs:a1":"eard Island and McDonald Islands",
+    "qs:a1_lc":"HMD+00?",
+    "qs:adm0":"Heard Island and McDonald Islands",
+    "qs:adm0_a3":"HMD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 aggregation",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":4999,
+    "wof:belongsto":[
+        102193527,
+        85632239,
+        136253039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28289411,
+        "qs:id":1209137,
+        "wd:id":"Q131198"
+    },
+    "wof:country":"HM",
+    "wof:geomhash":"7099faaf2b674124a1b27baa80aca36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102193527,
+            "country_id":-1,
+            "dependency_id":85632239,
+            "empire_id":136253039,
+            "region_id":85681231
+        }
+    ],
+    "wof:id":85681231,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1532035622,
+    "wof:name":"Heard Island and McDonald Islands",
+    "wof:parent_id":85632239,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-hm",
+    "wof:superseded_by":[
+        85632239
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.23601321683657,
+    -53.19255950281877,
+    73.81218509166871,
+    -52.96160247137692
+],
+  "geometry": {"coordinates":[[[73.73511803516925,-53.11239999796152],[73.76189212322299,-53.11891041508358],[73.78907311313372,-53.12053801891437],[73.81218509166871,-53.11850351412585],[73.66163170673792,-53.14666106615522],[73.60954837335879,-53.17986419077977],[73.58082116016845,-53.18759530987563],[73.50733483173713,-53.19255950281877],[73.47339928484917,-53.18922291460581],[73.44019616022467,-53.17327239400572],[73.43043053544091,-53.16529713235673],[73.40414472709756,-53.13933684711776],[73.37094160247301,-53.09050872140034],[73.36378014453811,-53.0748023415548],[73.37126712287949,-53.0646298158133],[73.35971113406163,-53.05885182095471],[73.35328209749088,-53.05169036301982],[73.35417727995758,-53.0442033828798],[73.36443118625033,-53.03728606569933],[73.34473717468092,-53.02922942439835],[73.32886803553146,-53.02507903337067],[73.27100670729374,-53.02174244605698],[73.2536727218187,-53.01506926873174],[73.24170983204317,-53.00221119559018],[73.23601321683657,-52.98202890341111],[73.26937910166424,-52.97527434643388],[73.29688561288077,-52.96160247137692],[73.33090254032004,-52.98479583046316],[73.33716881578829,-52.98577239348111],[73.344574415377,-52.99651458038352],[73.36109459713799,-53.00920989332189],[73.37745201869575,-53.01702239386833],[73.38493899793644,-53.01311614359508],[73.38917076951543,-52.99781666470727],[73.39958743601142,-52.99098072627947],[73.41293378976263,-52.99285247176414],[73.42652428516766,-53.00318775770882],[73.4128524101107,-53.00937265352508],[73.42562910180169,-53.02532317502448],[73.44703209685383,-53.02809010207653],[73.47022545683944,-53.02157968495447],[73.48796634237289,-53.00937265352508],[73.5076603521436,-53.01531340858691],[73.56421959695689,-53.01677825311384],[73.58757571714568,-53.0267880186521],[73.59848066515065,-53.03386809693507],[73.62094160197341,-53.03964609179366],[73.63257897224184,-53.04412200232849],[73.64014733203379,-53.0507138000018],[73.65560957112484,-53.06796640402627],[73.66334069112008,-53.07146575244246],[73.68897545685189,-53.09026458064585],[73.69947350389913,-53.10084400734502],[73.73511803516925,-53.11239999796152]]],"type":"Polygon"}
+}
